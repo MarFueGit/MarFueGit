@@ -1,6 +1,7 @@
 ### Bienvenid@ 👋
 
-- 🔭 Actualmente estoy buscando una oportunidad de empleo como: Desarrolladora Frontend ✌️
+- 🔭 Actualmente estoy buscando una oportunidad de empleo como: Desarrolladora Frontend ✌️. No importa la rama, me encantan los retos y demostrar el amor a tecnología.
+- 💪 Soy orgullosamente egresada de Laboratoria.
 - 🌱 En los últimos meses, estoy aprendiendo: SEO, Node JS a fondo y renovando proyectos anteriores con todo lo nuevo que va saliendo. 
 - 💬 Pregúntame sobre: React, HTML, CSS, diseño responsivo y maneras de organizar/diseñar tus proyectos web. 
 - 📫 How to reach me: maricelafuentes100@gmail.com
